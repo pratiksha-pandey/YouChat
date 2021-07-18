@@ -7,7 +7,8 @@ A real-time chat application with social authentication including Google and Fac
 
 Users can sign in, create rooms and share messages and files within the room
 
-![2021-07-18 (10)](https://user-images.githubusercontent.com/65605807/126060774-731efbfa-9db6-4fa7-a4da-9bf936c54e9c.png)
+![2021-07-18 (10)_LI](https://user-images.githubusercontent.com/65605807/126067327-9811324d-73aa-4321-8907-c5e52350990e.jpg)
+
 
 
 Users get an email notification, when they are offline
